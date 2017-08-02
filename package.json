@@ -23,6 +23,7 @@
     "extract-text-webpack-plugin": "2.1.2",
     "file-loader": "0.11.2",
     "fs-extra": "3.0.1",
+    "github-markdown-css": "^2.8.0",
     "html-loader": "^0.5.0",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
@@ -90,10 +91,13 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "github-markdown-css": "^2.8.0",
     "prismjs": "^1.6.0"
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdz321/prism-hightlight-loader.git"
+  }
 }
