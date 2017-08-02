@@ -1,6 +1,6 @@
 {
   "name": "prism-hightlight-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
     "autoprefixer": "7.1.1",
     "babel-core": "6.25.0",
